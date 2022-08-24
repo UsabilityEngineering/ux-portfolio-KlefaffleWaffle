@@ -1,6 +1,8 @@
 # Austin Devine's UX Portfolio
 
 
+![alt text](assets/IMG_7531.jpg)
+
 ## UX Team Project
 
 
