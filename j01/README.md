@@ -1,4 +1,4 @@
-# First Journal Entry...
+# UX Journal Entry: Viewing a video at a specific time
 
 Like many people in today’s day and age, I own a smartphone. I use a Samsung Galaxy s10+ running the Android operating system. The phone has many features 
 but the one I will be referencing is its ability to review recorded videos. I recently decided to record a vlog. I got interrupted about halfway through 
