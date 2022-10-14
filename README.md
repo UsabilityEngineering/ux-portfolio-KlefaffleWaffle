@@ -8,6 +8,6 @@ Hey Everybody! My name is Austin Devine. I'm an economics major minoring in comp
 ## UX Team Project
 
 
-## UX Journal
+## [UX Journal 1] ()
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with Bash](j01/README.md)
