@@ -32,7 +32,7 @@ able to drag the clip to the left which allowed me to find the location I was lo
 programs and everyone I have used so far has had the user move the time cursor around the clips, not the other way around. This created a sense of bad 
 **memorability**, meaning the process is hard to remember. This is because my intuition of how to operate the software is confounded by programs with 
 visually similar interfaces. In addition to the specific example in this paper, I know I have tried to do this multiple times, and every time I forget how
-and I have to relearn it, which would be fine if the **learnability** was more intuitive. While trying this process was not hard to learn, I did make 
+and I have to relearn it, which would be fine if the **learnability** was more intuitive. While learning how to complete my goals was not hard, I did make 
 mistakes in the process and sometimes my **mental model** was completely opposite of the **conceptual model**. This means the way I expected it to work was 
 exactly opposite of the way it did work.
 
