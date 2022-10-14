@@ -12,8 +12,9 @@ along with my finger while the video stopped playing.
 ![alt text](./Screenshot_20221001-135524_GalleryA.jpg)
 
 
-My first thought was that I didn’t hit the hitbox of the cursor, but it’s hard to tell because there’s no **feedback** for what I assumed to be a button. So I tried 
-again and I got the same result. I tried one more time and accidentally held my finger on the thumbnail which expanded the thumbnail into various frames in the 
+My first thought was that I didn’t hit the hitbox of the cursor, but it’s hard to tell because there’s no **feedback** for what I assumed to be a button. 
+This means there was no indication that what I did had any sort of effect. So I tried again and I got the same result. I tried one more time and accidentally
+held my finger on the thumbnail which expanded the thumbnail into various frames in the 
 video. While this action was unintentional it probably would’ve been the next thing that I tried.
 
 ![alt text](./Screenshot_20221001-144803_Gallery.jpg)
@@ -25,8 +26,9 @@ video was approaching the beginning of the clip not the end.
 Once I realized I couldn’t move the cursor and that I can only move the clip in relation to the cursor, I was 
 able to drag the clip to the left which allowed me to find the location I was looking for. This surprised me seeing how I’ve done video editing in a variety of 
 programs and everyone I have used so far has had the user move the time cursor around the clips, not the other way around. This created a sense of bad 
-**memorability** because my intuition of how to operate the software is confounded by programs with visually similar interfaces. In addition to the specific example 
-in this paper, I know I have tried to do this multiple times, and every time I forget how and I have to relearn it, which would be fine if the **learnability** was 
-more intuitive. While trying to complete this task was not hard to learn, I did make mistakes in the process and sometimes my **mental model** was completely 
-opposite of the **conceptual model**. This means the way I expected it to work was exactly opposite of the way it did work.
+**memorability**, meaning the process is hard to remember. This is because my intuition of how to operate the software is confounded by programs with 
+visually similar interfaces. In addition to the specific example in this paper, I know I have tried to do this multiple times, and every time I forget how
+and I have to relearn it, which would be fine if the **learnability** was more intuitive. While trying this process was not hard to learn, I did make 
+mistakes in the process and sometimes my **mental model** was completely opposite of the **conceptual model**. This means the way I expected it to work was 
+exactly opposite of the way it did work.
 
