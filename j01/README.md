@@ -9,4 +9,4 @@ Near the bottom of the screen, on the thumbnail of the video, I saw a vertical, 
 percentage of the video that had played.  My intuition was to tap and drag that cursor to the right. What happened was the carousel of photos and videos moved 
 along with my finger while the video stopped playing.
 
-![alt text](./../assets/Screenshot_20221001-135524_Gallery.jpg)
+![alt text](./Screenshot_20221001-135524_GalleryA.jpg)
