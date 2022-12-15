@@ -20,7 +20,6 @@ buttons extend to the center of the box.
 My next thought is to hit the “More…” button. In retrospect this seems silly, but so does a cd player without a pause button. A menu pops up as you can see 
 below.
 
-![alt text](./Photo1.jpg)
 ![alt text](./Photo%202.jpg)
 
 
@@ -35,23 +34,24 @@ below the audio screen and the primary method of interaction involves a rather i
 This knob has a ring which can be spun, a protruding part that can be pushed up, down, left and right, and a button on the end which can be pushed in. 
 I tried pushing the button in but it did not pause the music. It brought up a menu regarding the “Trip computer” which had nothing to do with what I was 
 trying to accomplish. In the previous photo of the panel, there are four buttons that are slightly larger than the others, they are, Nav, Phone, Info, 
-and Audio. I clicked on Audio to see what would happen, and was asked to select a source. I selected CD and was greeted with this screen. It showed the 
-song that was playing and those that would be following it. I clicked the button on the knob while the selected song was playing, but it only repeated 
+and Audio. I clicked on Audio to see what would happen, and was asked to select a source. I selected CD and was greeted with this window on the upper screen. 
+![alt text](./Photo%206%20A.jpg) 
+It showed the song that was playing and those that would be following it. I clicked the button on the knob while the selected song was playing, but it only repeated 
 the song from the start. I looked back at the panel and clicked the settings button. I selected all the options I thought may have been relevant regarding 
-adding a pause button to the screen. After looked through all of there settings, I found nothing that would help me.
+adding a pause button to the screen. After looking through all of the settings, I found nothing that would help me.
 
-![alt text](./Photo%205.jpg)
 
-It was at this point I realized I was being silly. If someone needed to adjust their music, music controls should be something that the user can do 
-with minimal attention to seeing how they would probably be driving. I noticed my steering wheel had a few buttons on the left side. I tried clicking 
-the source button. I don’t know why I thought this would be relevant. I think the way the buttons were presented the source button looked the most 
+
+It was at this point I realized I was being silly. If someone needed to adjust their music, they would need to be able to do so with minimal attention. This because there is a fair chance that they would be driving. In UX design, requiring a user to navigate various menus and settings while driving would violate the <b> safety </b> principle. This is the idea that a using a product should keep the user clear of physical, emotional, or any other form of danger. Safe design would dictate that a pause button should be easily visible or something that is near the users fingertips. I noticed my steering wheel had a few buttons on the left side. I tried clicking 
+the source button. I don’t know why I thought this would be relevant. I think with the way the buttons were presented, the source button looked the most 
 important and I would consider pausing an important function. I tried it, but all it did was change the source of the audio. There was button slightly 
 above and to the right of the source button featuring a series of rectangles coming towards the user. Having no idea what that might be I tried pressing 
-it. It brought up a navigation menu. There were some additional buttons on the wheel, but I feel extremely confident none of them would accomplish the 
-task. I looked at the panel on the driver side door but found nothing relevant there either. As I was about to give up, I got one last idea.
-
-![alt text](./Photo%206%20A.jpg)
+it. It brought up a navigation menu. There were some additional buttons on the wheel, but I felt extremely confident none of them would accomplish the 
+task. I looked at the panel on the driver side door but found nothing relevant there either. 
 ![alt text](./Photo%206.jpg)
+As I was about to give up, I got one last idea.
+
+
 
 I remembered that in my previous car, the pause button wasn’t even a labeled button. To pause a CD, one had to press in the volume knob into the panel. 
 I decided to try that with this car, and you may be surprised to learn, that nothing happened. It wasn’t even a knob that could be pressed in. It was 
@@ -62,5 +62,5 @@ newer car can’t pause a CD without changing the source of the music, or turnin
 
 ![alt text](./Screenshot%202022-12-05%20202521.jpg)
 
-By failing to figure out how to achieve my goal, I would say this interface is not very <b>learnable</b>, <b>effective</b>, nor <b> safe</b>. In the process of trying to figure out how to pause the CD, I spent about 30 minutes in my car navigating menus, trying various buttons, looking around for buttons I don't usually pay attention to or interact with. A good interface needs to be something that is easy to learn and figure out. If it took me 30 minutes to figure out how to pause the CD, that should've been a failure on its own, but I wasn't even able to figure it out at all. This ties into my next point, that the functionality was ineffective, it failed to perform the task the user expected of it. After a quick Google search, it would appear that the car does not have an option to pause the CD without turning off the player or changing the source. Finally, this interface is dangerous. While I was performing these experiments in my car while it was parked and the motor was off, many users may try to find a pause button while driving. Afterall, that's when I realized I couldn't find one. Looking for a feature, especially one that doesn't exist, could cause an individual to get in a car accident risking life and limb, not just of the self but of those around them.
+By failing to figure out how to achieve my goal, I would say this interface is not very <b>learnable</b>, <b>effective</b>, nor <b> safe</b>. In the process of trying to figure out how to pause the CD, I spent about 30 minutes in my car navigating menus, trying various buttons, or looking around for buttons that I don't usually pay attention to or interact with. A good interface needs to be something that is easy to learn and figure out. If it took me 30 minutes to figure out how to pause the CD, that should've been a failure on its own, but I wasn't even able to figure it out at all. This ties into my next point, that the functionality was ineffective, it failed to perform the task the user expected of it. After a quick Google search, it would appear that the car does not have an option to pause the CD without turning off the player entirely, muting the song or changing the source. Finally, this interface is dangerous. In this scenario, I was performing these experiments in my car while it was parked and the motor was off, but many users may try to find a pause button while driving. Afterall, that's when I realized I couldn't find one. Looking for a feature, especially one that doesn't exist, could cause an individual to get in a car accident risking life and limb, not just of the self but of those around them. I would  deem this experience a complete failure.
 
