@@ -1,5 +1,6 @@
 
-Journal 2: Getting the CD in my car to Pause.
+<h1>Let's Stop CD's (Crappy Designs)</h1>
+ <h3> by Austin Devine</h3>
 
 The other day I was driving around town, listening to a compact disc in my car and I decided to get some fast food. Normally I use an auxillary cord hooked
 up to my phone as I listen to Spotify or the mp3s on my phone, but for whatever reason I wanted to listen to a CD that day. As I drove up to the speaker box, 
