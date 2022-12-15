@@ -19,15 +19,18 @@ buttons extend to the center of the box.
 My next thought is to hit the “More…” button. In retrospect this seems silly, but so does a cd player without a pause button. A menu pops up as you can see 
 below.
 
-![alt text](./Photo 2.jpg)
+![alt text](./Photo1.jpg)
+![alt text](./Photo%202.jpg)
+
 
 I clicked on screen settings because I thought there might be an option to turn on additional controls. I didn’t find anything. Going back to the menu, I 
 clicked on Scan simply because I had no idea what it did, and I’m still not 100% sure but I don’t think it had anything to do with pausing the music. You’ll 
 notice in the following picture there is a second screen which is used for a variety of features. It is controlled by a panel of buttons about 6 inches 
 below the audio screen and the primary method of interaction involves a rather intricate knob with the word “Enter” on it.
 
-	![alt text](./Photo 3.jpg)
-	![alt text](./Photo 4.jpg)
+![alt text](./Photo%203.jpg)
+![alt text](./Photo%204.jpg)
+
 This knob has a ring which can be spun, a protruding part that can be pushed up, down, left and right, and a button on the end which can be pushed in. 
 I tried pushing the button in but it did not pause the music. It brought up a menu regarding the “Trip computer” which had nothing to do with what I was 
 trying to accomplish. In the previous photo of the panel, there are four buttons that are slightly larger than the others, they are, Nav, Phone, Info, 
@@ -35,7 +38,8 @@ and Audio. I clicked on Audio to see what would happen, and was asked to select 
 song that was playing and those that would be following it. I clicked the button on the knob while the selected song was playing, but it only repeated 
 the song from the start. I looked back at the panel and clicked the settings button. I selected all the options I thought may have been relevant regarding 
 adding a pause button to the screen. After looked through all of there settings, I found nothing that would help me.
-![alt text](./Photo 5.jpg)
+
+![alt text](./Photo%205.jpg)
 
 It was at this point I realized I was being silly. If someone needed to adjust their music, music controls should be something that the user can do 
 with minimal attention to seeing how they would probably be driving. I noticed my steering wheel had a few buttons on the left side. I tried clicking 
@@ -45,8 +49,8 @@ above and to the right of the source button featuring a series of rectangles com
 it. It brought up a navigation menu. There were some additional buttons on the wheel, but I feel extremely confident none of them would accomplish the 
 task. I looked at the panel on the driver side door but found nothing relevant there either. As I was about to give up, I got one last idea.
 
-![alt text](./Photo 6 A.jpg)
-![alt text](./Photo 6.jpg)
+![alt text](./Photo%206%20A.jpg)
+![alt text](./Photo%206.jpg)
 
 I remembered that in my previous car, the pause button wasn’t even a labeled button. To pause a CD, one had to press in the volume knob into the panel. 
 I decided to try that with this car, and you may be surprised to learn, that nothing happened. It wasn’t even a knob that could be pressed in. It was 
