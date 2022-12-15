@@ -59,3 +59,5 @@ write this report, I performed a google image search of “Car CD Player 1990”
 car’s CD player with a labeled pause button. While there may be unlabeled buttons such as the volume knob in my old car, I think it’s quite possible my 
 newer car can’t pause a CD without changing the source of the music, or turning off the sound system all together.
 
+![alt text](./Screenshot%202022-12-05%20202521.jpg)
+
