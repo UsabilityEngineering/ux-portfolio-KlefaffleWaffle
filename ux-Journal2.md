@@ -61,3 +61,5 @@ newer car can’t pause a CD without changing the source of the music, or turnin
 
 ![alt text](./Screenshot%202022-12-05%20202521.jpg)
 
+By failing to figure out how to achieve my goal, I would say this interface is not very <b>learnable</b>, <b>effective</b>, nor <b> safe</b>. In the process of trying to figure out how to pause the CD, I spent about 30 minutes in my car navigating menus, trying various buttons, looking around for buttons I don't usually pay attention to or interact with. A good interface needs to be something that is easy to learn and figure out. If it took me 30 minutes to figure out how to pause the CD, that should've been a failure on its own, but I wasn't even able to figure it out at all. This ties into my next point, that the functionality was ineffective, it failed to perform the task the user expected of it.
+
