@@ -9,3 +9,4 @@ Hey Everybody! My name is Austin Devine. I'm an economics major minoring in comp
 
 [UX JOURNAL 1](./j01/README.md)
 
+[UX JOURNAL 2](./ux-Journal2.md)
